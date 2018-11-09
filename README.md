@@ -14,12 +14,17 @@ arcade buttons they you assign to a #Task.  Slapa'da button to start your timer,
 # Hardware
 
 * Arduino with wireless module or ESP32
+![ESP32](image.png)
+
 * USB cord for power
 * Various resistors / prototype boards
 * 3D printed enclosure
-* Some arcade buttons 
 
-![BossButtons](image.png)
+* Some [arcade buttons](https://www.amazon.com/gp/product/B00XJ8UEQ0/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
+
+![Arcade Buttons](buttons.png)
+
+
 
 # Communication
 
