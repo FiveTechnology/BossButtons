@@ -11,6 +11,11 @@ arcade buttons they you assign to a #Task.  Slapa'da button to start your timer,
 
 * [Button Tutorial](https://www.arduino.cc/en/Tutorial/Button)
 
+# Prototype
+
+This circuit works for single button using BossButtons.ino sketch sends HTTP request to hard coded URL
+![Fritzing](OneButton.png)
+
 # Hardware
 
 ## Controller
