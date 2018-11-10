@@ -13,18 +13,29 @@ arcade buttons they you assign to a #Task.  Slapa'da button to start your timer,
 
 # Hardware
 
-* Arduino with wireless module or ESP32
+## Controller
+
+[Node MCU ESP-32S](https://www.amazon.com/gp/product/B0718T232Z/ref=oh_aui_detailpage_o03_s02?ie=UTF8&psc=1)
 ![ESP32](image.png)
 
-* USB cord for power
-* Various resistors / prototype boards
-* 3D printed enclosure
+## Power
 
-* Some [arcade buttons](https://www.amazon.com/gp/product/B00XJ8UEQ0/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
+Power will be through USB 5VUSB cord for power
 
-![Arcade Buttons](buttons.png)
+## Misc Parts
 
+Will need various resistors, boards, solder, etc..
 
+## Enclosure
+
+Will use FreeCAD or Fusion360 to design a box
+
+## Buttons
+
+Starting with [these](https://www.amazon.com/gp/product/B00XJ8UEQ0/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1) but
+they are 5v so driving with 3.3v GPIO is tricky
+
+Adafruit has some nice [3.3v buttons](https://www.adafruit.com/product/3487) that fade
 
 # Communication
 
